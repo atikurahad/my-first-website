@@ -1,0 +1,52 @@
+.picture {
+  border: 15px double aquamarine;
+  border-radius: 18px;
+  margin-left: 275px;
+  height: 500px;
+  width: 800px;
+}
+
+#heading {
+  color: blueviolet;
+  border: 5px solid snow;
+  font-style: italic;
+  font-weight: 600;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+.describe {
+  background-color: rgba(84, 167, 235, 0.383);
+  margin: 20px;
+  border: 10px solid aqua;
+  border-radius: 12px;
+  padding: 15px;
+}
+
+#Author-name {
+  background-color: aquamarine;
+  color: chocolate;
+  font-size: 15px;
+}
+
+#bandarban {
+  color: deeppink;
+  text-align: center;
+  text-decoration: dotted;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+small {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 22px;
+}
+#mr-author {
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: yellowgreen;
+  background-color: aliceblue;
+  border: 1px solid tomato;
+}
